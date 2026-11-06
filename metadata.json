@@ -1,0 +1,6 @@
+{
+  "name": "Aura Vegana",
+  "description": "Bio linkhub e vitrine oficial da Aura Vegana: cosméticos naturais, veganos e artesanais com loja virtual integrada e atendimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
