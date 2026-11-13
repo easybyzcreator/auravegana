@@ -175,7 +175,7 @@ export const TRANSLATIONS = {
       {
         id: 'duvidas-alergia',
         tag: 'Dúvidas Frequentes',
-        question: 'Já deixou de usar um sabonete natural por receio de se arrepender depois?',
+        question: 'Já deixou de usar um sabonete artesanal por receio de se arrepender depois?',
         intro: 'A gente sabe que testar algo novo na pele traz algumas dúvidas. Vamos direto ao ponto com o que mais preocupa você:',
         imageUrl: ASSETS.imgCareGuide1,
         points: [
@@ -569,7 +569,7 @@ export const TRANSLATIONS = {
       {
         id: 'duvidas-alergia',
         tag: 'Common Questions',
-        question: 'Have you ever hesitated to try a natural soap fearing you might regret it later?',
+        question: 'Have you ever hesitated to try an artisan soap fearing you might regret it later?',
         intro: "We understand that trying something new on your skin brings questions. Let's address what concerns you most directly:",
         imageUrl: ASSETS.imgCareGuide1,
         points: [
